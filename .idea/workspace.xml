@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9ec95ae-45a9-4d55-95e9-d158daa3a124" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/desktop-tutorial" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectId" id="1gu5sxUCUw8exBPMQiBstYU891m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9ec95ae-45a9-4d55-95e9-d158daa3a124" name="Default Changelist" comment="" />
+      <created>1598951846736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598951846736</updated>
+      <workItem from="1598951847802" duration="5906000" />
+      <workItem from="1599196535270" duration="3263000" />
+      <workItem from="1599209044670" duration="2821000" />
+      <workItem from="1599299469325" duration="597000" />
+      <workItem from="1599370310852" duration="3661000" />
+      <workItem from="1599462394542" duration="3107000" />
+      <workItem from="1599484522001" duration="2216000" />
+      <workItem from="1599497245990" duration="4882000" />
+      <workItem from="1599554928116" duration="111000" />
+      <workItem from="1600238885809" duration="607000" />
+      <workItem from="1600261106352" duration="261000" />
+      <workItem from="1600588966252" duration="208000" />
+      <workItem from="1600589195391" duration="272000" />
+      <workItem from="1600699278071" duration="4973000" />
+      <workItem from="1600710584971" duration="56000" />
+      <workItem from="1600720392018" duration="1489000" />
+      <workItem from="1600789211398" duration="1384000" />
+      <workItem from="1601007278601" duration="896000" />
+      <workItem from="1601009034530" duration="431000" />
+      <workItem from="1601016731111" duration="816000" />
+      <workItem from="1601018540915" duration="81000" />
+      <workItem from="1601055853981" duration="347000" />
+      <workItem from="1601091198500" duration="99000" />
+      <workItem from="1601093097587" duration="985000" />
+      <workItem from="1601094263297" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="87" key="#CLI_Interpreters" timestamp="1601009437947">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="348" y="87" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1601009437947" />
+    <state x="580" y="93" key="#PHP" timestamp="1599204664944">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="580" y="93" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1599204664944" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601009075643">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1601009075643" />
+    <state x="496" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600589333880">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1600589333880" />
+    <state x="903" y="484" key="NewPhpFileDialog" timestamp="1599484726197">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="903" y="484" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1599484726197" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1601009442909">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601009442909" />
+  </component>
+</project>
